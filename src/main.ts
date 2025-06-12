@@ -18,7 +18,7 @@ async function bootstrap() {
 
   app.enableCors(); //**Sirve para .... cambio 28may2025 */
 
-  await app.listen(3000);
+  await app.listen(3019);
 }
 bootstrap();
 
